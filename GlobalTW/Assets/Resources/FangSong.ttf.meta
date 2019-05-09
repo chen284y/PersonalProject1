@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: edcba786ae6308c49a64e74ed6b0ade5
+timeCreated: 1525964584
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HanWangFangSongMedium
+  fontNames:
+  - HanWangFangSongMedium
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

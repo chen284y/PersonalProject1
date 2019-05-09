@@ -1,0 +1,13 @@
+player*WorldTension*Atax*Ctax*TurnsN*AP|
+Aproduction[6]|
+Apopulation[6]|
+Aneeds[6]*Aunemployment|
+Cproduction[6]|
+Cpopulation[6]|
+Cneeds[6]*Aunemployment|
+blank|
+countriesSize|
+index*names*standing*details[4]|
+about FacPN[6]: Ally Pro, Ally Need, Neutral Pro, Neutral Needs, Enemy Pro, Enemy Needs
+
+Missing Countries: Maltar, Singapore
